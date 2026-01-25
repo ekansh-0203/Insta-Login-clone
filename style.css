@@ -1,0 +1,13 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+input[type=submit]{
+    background-color: aqua;
+    color: antiquewhite;
+    border: none;
+    padding: 12px;
+    border-radius: 8px;
+}
+input[type=submit]:hover{
+    background-color: rgb(14, 7, 134);
+}
